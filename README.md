@@ -58,11 +58,11 @@ Product/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Manishkumarbingi/gym-website.git
+git clone https://github.com/Manishkumarbingi/Product-Management-Website.git
 ```
 
 ```bash
-cd gym-website/Product
+cd Product-Management-Website
 ```
 
 ---
